@@ -1,3 +1,2 @@
 #!/bin/bash
-
 ls -lah --format=long --numeric-uid-gid | sort -k3
