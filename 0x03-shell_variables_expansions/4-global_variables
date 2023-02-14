@@ -1,2 +1,2 @@
 #!/bin/bash
-for var in $(printenv); do echo $var done
+for var in $(printenv) do echo $var done
