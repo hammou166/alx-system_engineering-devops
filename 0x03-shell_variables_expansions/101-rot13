@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Usage: $0 <text file>"
+paste -d, - - | cut -d, -f1
